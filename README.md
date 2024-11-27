@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/wGIz.gif"  />
+<img align="right" height="150" src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357"  />
 
 ###
 
@@ -73,6 +73,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/prranitarora/prranitarora/output/snake.svg" alt="Snake animation" />
+
 
 ###
