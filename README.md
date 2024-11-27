@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Prranit Arora and I'm a software developer, located in the United States.</h2>
+<h2 align="left">Hi 👋! My name is Prranit Arora and I'm a software developer located in the United States.</h2>
 
 ###
 
