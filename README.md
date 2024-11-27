@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357"  />
+<img align="right" height="150" src=""  />
 
 ###
 
