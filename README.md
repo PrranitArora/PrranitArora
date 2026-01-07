@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prranit Arora</h1>
 <h3 align="center">A software developer currently interested in learning more machine learning and quantum computing.</h3>
 
-- 🔭 I’m currently working on [SEAL Application [through AUTRS]](https://github.com/Autism-Technology-Research-Syndicate/SEALApplication)
-
 - 🌱 I’m currently learning **Qiskit, TensorFlow, R**
 
-- 👯 I’m looking to collaborate on **Innovative projects**
-
-- 🤝 I’m looking to **Pursue CS related research opportunities**
-
-- 📫 How to reach me **prranit1111arora@autrs.com**
+- 📫 How to reach me Discord: **ultra.chicken**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
